@@ -2,7 +2,8 @@
 - 👀 I’m interested in you
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on projects
-- 📫 To reach me call my #
+
+✨ ( ͡° ͜ʖ ͡°) ✨
 
 <!---
 ✨ no way ✨
