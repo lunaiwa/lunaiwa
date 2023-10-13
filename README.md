@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @lunaiwa
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on projects
-
-✨ ( ͡° ͜ʖ ͡°) ✨
-
-<!---
-✨ no way ✨
---->
+![Luna's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunaiwa&show_icons=true&theme=tokyonight)
